@@ -5,9 +5,7 @@ Then answer in the space below each question:
 
 1. Yanushan
 
-2. Vasikaran
-
-3. Dog
+3. Tiger
 
 
 Now click the green 'commit changes' button at the bottom.
